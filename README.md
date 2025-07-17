@@ -16,12 +16,7 @@ Visualizações Interativas: Dashboards e gráficos que tornam os dados acessív
 
 Tecnologias Utilizadas:
 
-Python
-Pandas, NumPy
-Matplotlib, Seaborn, Plotly
-Scikit-learn, XGBoost, LightGBM
-Jupyter Notebook, Google Colab, VS Code
-Streamlit, Flask (em projetos específicos)
+Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, LightGBM, Jupyter Notebook, Google Colab, VS Code, Streamlit, Flask (em projetos específicos).
 
 Objetivo
 
