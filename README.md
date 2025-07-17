@@ -1,4 +1,4 @@
-# Projeto DataScience
+# Portfólio de Ciência de Dados
 
 Bem-vindo ao meu portfólio de Ciência de Dados e Machine Learning! Este repositório reúne projetos, exemplos práticos e recursos que demonstram minha experiência e paixão por transformar dados em insights valiosos utilizando Python e suas bibliotecas mais poderosas.
 
