@@ -1,4 +1,4 @@
-
+![Vitrine do Projeto](vitrine-projeto.png)
 
 # 💳 Detector de Fraudes com IA
 
