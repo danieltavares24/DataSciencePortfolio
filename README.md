@@ -1,24 +1,24 @@
-# Portfólio de Ciência de Dados
+# 💳 Detector de Fraudes com IA
 
-Bem-vindo ao meu portfólio de Ciência de Dados e Machine Learning! Este repositório reúne projetos, exemplos práticos e recursos que demonstram minha experiência e paixão por transformar dados em insights valiosos utilizando Python e suas bibliotecas mais poderosas.
+Este projeto utiliza Machine Learning para detectar transações fraudulentas de cartão de crédito. O painel foi criado com Streamlit e utiliza um modelo Random Forest treinado com dados reais anonimizados.
 
-Sobre o Projeto
+## 🚀 Como usar
+1. Insira os dados da transação (valores simulados)
+2. Clique em "Detectar"
+3. Veja se o modelo classifica como fraude ou legítimo
 
-Este espaço foi criado para compartilhar soluções reais e didáticas voltadas à análise de dados, modelagem preditiva e visualização interativa. Se você é um entusiasta da área ou um recrutador buscando talentos, aqui você encontrará:
+## 🧠 Tecnologias usadas
+- Python
+- Streamlit
+- scikit-learn
+- joblib
+- pandas
 
-Instalação Simplificada: Instruções claras para configurar o ambiente com Python, Jupyter Notebook e bibliotecas essenciais como Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn e outras.
+## 📈 Métricas alcançadas
+- Acurácia: 99,9%
+- ROC-AUC: 0.9999
+- F1-score para fraudes: 0.75
 
-Exemplos Práticos e Didáticos: Casos reais de manipulação, limpeza e visualização de dados, além de aplicações de algoritmos de Machine Learning supervisionado e não supervisionado.
+---
 
-Projetos de Machine Learning: Modelos de classificação, regressão, clustering e avaliação de desempenho, com explicações passo a passo para facilitar o aprendizado e a replicação.
-
-Visualizações Interativas: Dashboards e gráficos que tornam os dados acessíveis e compreensíveis, utilizando ferramentas como Plotly e Streamlit.
-
-Tecnologias Utilizadas:
-
-Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, LightGBM, Jupyter Notebook, Google Colab, VS Code, Streamlit, Flask (em projetos específicos).
-
-Objetivo
-
-Este repositório é parte do meu portfólio profissional e tem como objetivo demonstrar minha capacidade de aplicar conceitos de Ciência de Dados e Machine Learning em problemas reais. Estou sempre aprimorando os projetos e adicionando novos conteúdos.
-
+Desenvolvido por **Daniel Tavares**
