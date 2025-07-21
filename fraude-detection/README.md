@@ -1,5 +1,11 @@
 # 💳 Detector de Fraudes com IA
 
+# Detector de Fraudes com IA
+
+[![Ver painel no Streamlit 💳](https://img.shields.io/badge/Acessar-App-blue?style=for-the-badge&logo=streamlit)](https://danieltavares24.streamlit.app)
+
+Este projeto utiliza Machine Learning para detectar transações fraudulentas em cartões de crédito...
+
 Este projeto utiliza Machine Learning para detectar transações fraudulentas de cartão de crédito. O painel foi criado com Streamlit e utiliza um modelo Random Forest treinado com dados reais anonimizados.
 
 ## 🚀 Como usar
